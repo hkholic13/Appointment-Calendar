@@ -8,6 +8,7 @@ The app has follwoing main fucntionalities:
 - Search appointment with above mentioned attributes
 
 ## App Preview
+[![Demo Video](thumbnail.png)](demo-vdo.mp4)
 
   
 ## Available Scripts
