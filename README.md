@@ -9,7 +9,7 @@ The app has follwoing main fucntionalities:
 
 ## App Preview
 [![Demo Video](thumbnail.png)]([demo-vdo.mp4](https://github.com/hkholic13/Appointment-Calendar/blob/ffdfa47ec71d8a66a12cabdbd594c8be25886755/demo-vdo.mp4))
-
+![GIF]([https://github.com/username/repository/raw/main/path/to/your/gif.gif](https://github.com/hkholic13/Appointment-Calendar/blob/b2fe2951c5d72123184f90b7eec777f31f9bd8b9/demo-vdo.gif))
   
 ## Available Scripts
 This app was designed to run on local mode currently with mock data stored in public folder.
