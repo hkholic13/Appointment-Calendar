@@ -8,7 +8,7 @@ The app has follwoing main fucntionalities:
 - Search appointment with above mentioned attributes
 
 ## App Preview
-[![Demo Video](thumbnail.png)](demo-vdo.mp4)
+[![Demo Video](thumbnail.png)]([demo-vdo.mp4](https://github.com/hkholic13/Appointment-Calendar/blob/ffdfa47ec71d8a66a12cabdbd594c8be25886755/demo-vdo.mp4))
 
   
 ## Available Scripts
